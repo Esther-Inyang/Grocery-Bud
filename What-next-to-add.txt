@@ -1,0 +1,7 @@
+
+
+			Do this
+
+* add index number to each grocery item created, and if an item is deleted, update the numbering accordingly.
+
+* add a checkbox to each grocery item created, and if the checkbox is checked, strike through that grocery item.
